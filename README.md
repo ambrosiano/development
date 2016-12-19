@@ -1,1 +1,1 @@
-# nlpx - a repository for learning natural language processing.
+# nlpx - A Repository for Learning Natural Language Processing
